@@ -1,0 +1,12 @@
+Commands:
+Pack 1 pass:OK
+Pack 2 pass:OK
+Pack 3 pass:OK
+Update firmware completed!!!
+Commands:
+Commands:
+Pack 1 pass:OK
+Pack 2 pass:OK
+Pack 3 pass:OK
+Update firmware completed!!!
+Commands:

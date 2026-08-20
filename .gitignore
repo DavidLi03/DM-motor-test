@@ -1,0 +1,29 @@
+# Local assistant settings
+.claude/settings.local.json
+
+# Motor documentation: keep only the 4310 variants
+DM-J*/
+!DM-J4310-2EC/
+!DM-J4310P-2EC/
+
+# Build outputs
+**/build/
+**/devel/
+**/install/
+**/log/
+**/bin/
+**/obj/
+**/.idea/
+
+# Generated caches and compiled objects
+**/__pycache__/
+*.py[cod]
+
+# CMake-generated files
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+
+# macOS metadata
+.DS_Store
+Thumbs.db
