@@ -4,7 +4,6 @@
 # Motor documentation: keep only the 4310 variants
 DM-J*/
 !DM-J4310-2EC/
-!DM-J4310P-2EC/
 
 # Build outputs
 **/build/
